@@ -10,4 +10,4 @@ A frontend-only clone of Spotify built using HTML and CSS.
 - CSS
 
 ## Note
-This is a **frontend-only project**. No backend functionality included.
+This is a **frontend-only project**. Only static UI.
